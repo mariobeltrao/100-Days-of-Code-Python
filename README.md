@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # 🐍 100 Days of Code — Python
 
 Este repositório documenta minha jornada no desafio **100 Days of Code with Python**, no qual pretendo estudar e praticar Python diariamente por meio da construção de **100 projetos ao longo de 100 dias**.
@@ -64,3 +65,15 @@ A ideia é que, ao chegar ao **Day 100**, este repositório mostre não apenas 1
 ---
 
 > **100 dias. 100 projetos. Um passo de cada vez.**
+=======
+# 100-Days-of-Code-Python
+🐍 100 Dias de Python
+
+Este repositório foi criado para acompanhar e registrar minha evolução durante um curso de 100 dias de Python.
+
+A proposta é utilizar este espaço como um histórico do meu aprendizado, armazenando os exercícios, desafios, projetos e conceitos estudados ao longo de cada dia.
+
+Além de praticar Python, este projeto também me permite desenvolver experiência com Git e GitHub, criando o hábito de versionar meus códigos, realizar commits e documentar minha evolução.
+
+Ao final dos 100 dias, este repositório servirá como um registro prático da minha jornada de aprendizado e dos conhecimentos que desenvolvi durante o curso.
+>>>>>>> Stashed changes
